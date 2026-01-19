@@ -1,0 +1,1 @@
+Product: Laptop, Price: 50000, Discount: 10%, Final: 45000, Time: 2026-01-19T16:48:54.693Z
