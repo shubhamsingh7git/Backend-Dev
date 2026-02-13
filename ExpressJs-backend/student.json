@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Messi",
+    "branch": "cse"
+  },
+  {
+    "id": 2,
+    "name": "Ronaldo",
+    "branch": "ece"
+  },
+  {
+    "id": 3,
+    "name": "Neymar",
+    "branch": "diploma"
+  },
+  {
+    "id": 4,
+    "name": "Raphinha",
+    "branch": "IT"
+  },
+  {
+    "id": "5",
+    "name": "Manjit Kumar",
+    "branch": "ece"
+  },
+  {
+    "id": "6",
+    "name": "Yash",
+    "branch": "Bridgelab"
+  },
+  {
+    "id": "7",
+    "name": "Reyna",
+    "branch": "Duelist"
+  },
+  {
+    "id": "8",
+    "name": "Sage",
+    "branch": "Sentinel"
+  },
+  {
+    "id": "10",
+    "name": "Rajesh Kumar",
+    "branch": "Yamal"
+  }
+]
